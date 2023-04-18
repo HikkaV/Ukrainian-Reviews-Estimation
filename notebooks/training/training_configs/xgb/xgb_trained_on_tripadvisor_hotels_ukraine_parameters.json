@@ -1,0 +1,1 @@
+{"vect__max_df": 0.8438356508106002, "vect__min_df": 45, "vect__ngram_range": [1, 1], "clf__max_depth": 3, "clf__gamma": 2.348574691769236, "clf__reg_alpha": 40, "clf__reg_lambda": 0.9987689523037375, "clf__colsample_bytree": 0.5125818253742627, "clf__min_child_weight": 5, "clf__n_estimators": 87}
