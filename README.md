@@ -69,7 +69,7 @@ tokenizer = BPETokenizer(vocab=huggingface_hub.hf_hub_download('vkovenko/deep_ls
 
 ```
 
-How to laod model for rating estimation:
+How to load model for rating estimation:
 
 ```python  
 class Attention(tf.keras.layers.Layer):
